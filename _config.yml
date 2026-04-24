@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lingchen Meng portfolio"
+title                    : "Lingchen Meng Portfolio"
 title_separator          : "-"
 name                     : &name "Lingchen Meng"
 description              : &description "Lingchen Meng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lingchen Meng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Computer Science Ph.D student at WashU"
+  location         : "St. Louis, MO"
   employer         : "Washington University in St. Louis"
   uri              : # URL
   email            : "lingchen.m@wustl.edu" 
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-2603-9937"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
