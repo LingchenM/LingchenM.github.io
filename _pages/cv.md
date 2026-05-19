@@ -20,7 +20,6 @@ Contact
 Research Interests
 ======
 
-* Systems security
 * Cyber-physical systems security
 * Computer systems security
 * AI and robotics security, especially embodied AI security
