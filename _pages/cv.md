@@ -80,11 +80,11 @@ Teaching Assistant, Fall 2023 - Fall 2024
 Technical Projects
 ======
 
-**Command and Control Malware Development**, Washington University  
-Project Developer, Fall 2023
+**Electromagnetic Interference Ledger and Registry (EMILY)**, Washington University<br>
+Project Developer, Fall 2025
 
-* Developed a controlled security-lab program for remote command execution and system interaction.
-* Implemented functionality for input monitoring, screen monitoring, credential recovery, and anti-analysis checks in a lab environment.
+* Designed a real-time EMI event registry that allows users to upload identified electromagnetic interference events and visualize them on a global map.
+* Implemented fine-grained role-based access control for individual users, organizations, and super administrators to manage event submission, verification, and visibility.
 
 **Reverse Engineering Camera Slider APK**, Washington University  
 Project Developer, Summer 2024
@@ -142,6 +142,6 @@ Talks and Public Presentations
 Skills
 ======
 
-* Programming: C/C++, Python, Java, JavaScript, HTML, CSS, PHP, MySQL, R, MATLAB, Assembly, LaTeX, Linux Kernel
+* Programming: C/C++, Python, Java, JavaScript, HTML, CSS, PHP, SQL, R, MATLAB, Assembly, LaTeX
 * Software and tools: Visual Studio, VS Code, AWS EC2, MATLAB, gdb, Wireshark, IDA Pro, Immunity Debugger, PE-View, Metasploit
 * Languages: English, Chinese

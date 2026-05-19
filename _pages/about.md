@@ -56,3 +56,11 @@ Teaching
 
 **Teaching Assistant**, Washington University in St. Louis, Fall 2023 - Fall 2024  
 Introduction to Computer Engineering and Introduction to Computer Security
+
+Selected Projects
+======
+
+**Electromagnetic Interference Ledger and Registry (EMILY)**<br>
+Project Developer, Fall 2025
+
+Designed a real-time EMI event registry for uploading identified electromagnetic interference events and visualizing them on a global map, with role-based access control for individual users, organizations, and super administrators.

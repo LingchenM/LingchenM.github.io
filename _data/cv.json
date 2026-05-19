@@ -14,6 +14,11 @@
     },
     "profiles": [
       {
+        "network": "ORCID",
+        "username": "0009-0001-2603-9937",
+        "url": "https://orcid.org/0009-0001-2603-9937"
+      },
+      {
         "network": "GitHub",
         "username": "LingchenM",
         "url": "https://github.com/LingchenM"
@@ -71,7 +76,7 @@
   "skills": [
     {
       "name": "Programming",
-      "keywords": ["C/C++", "Python", "Java", "JavaScript", "HTML", "CSS", "PHP", "MySQL", "R", "MATLAB", "Assembly", "LaTeX", "Linux Kernel"]
+      "keywords": ["C/C++", "Python", "Java", "JavaScript", "HTML", "CSS", "PHP", "SQL", "R", "MATLAB", "Assembly", "LaTeX"]
     },
     {
       "name": "Software and Tools",
@@ -98,5 +103,13 @@
   "publications": [],
   "presentations": [],
   "teaching": [],
-  "portfolio": []
+  "portfolio": [
+    {
+      "name": "Electromagnetic Interference Ledger and Registry (EMILY)",
+      "category": "technical project",
+      "date": "2025",
+      "url": "",
+      "description": "Designed a real-time EMI event registry for uploading identified electromagnetic interference events and visualizing them on a global map, with fine-grained role-based access control for individual users, organizations, and super administrators."
+    }
+  ]
 }
