@@ -20,19 +20,6 @@ Research Interests
 * Computer systems security
 * AI and robotics security, especially embodied AI security
 
-Current Research
-======
-
-**Physical Adversarial Examples in ML Perception Systems**  
-Researcher, Fall 2025 - Present
-
-I study physical adversarial examples as an end-to-end physical-to-digital attack pipeline. This work includes surveying prior work, identifying limitations in robustness evaluations, and building a controlled experimental platform for evaluating how physical and sensing factors affect adversarial attack reliability.
-
-**Measuring Impact Hardness of AI Command Errors in Embodied Control Stacks**  
-Researcher, Spring 2026 - Present
-
-I investigate AI-enabled control stacks, including self-driving and humanoid robot settings, with attention to VLA models and control logic in embodied systems such as the Unitree G1 Humanoid.
-
 Education
 ======
 

@@ -43,22 +43,6 @@ Honors
 * Tau Beta Pi Engineering Honor Society Member
 * Dean's List, Fall 2022 - Spring 2025
 
-Ongoing Research
-======
-
-**Physical Adversarial Examples in ML Perception Systems**  
-Researcher, Fall 2025 - Present
-
-* Modeled physical adversarial examples as an end-to-end physical-to-digital attack pipeline.
-* Surveyed 130+ prior works and analyzed limitations in existing robustness evaluations.
-* Built a controlled experimental platform to evaluate how physical and sensing factors affect adversarial attack reliability.
-
-**Measuring Impact Hardness of AI Command Errors in Embodied Control Stacks**  
-Researcher, Spring 2026 - Present
-
-* Perform static analysis on AI-enabled control stacks, including self-driving and humanoid systems.
-* Investigate the VLA model and control logic of the Unitree G1 Humanoid.
-
 Work Experience
 ======
 
